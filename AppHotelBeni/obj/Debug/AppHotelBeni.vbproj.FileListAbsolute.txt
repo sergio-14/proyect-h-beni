@@ -1,0 +1,50 @@
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\bin\Debug\AppHotelBeni.exe.config
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\bin\Debug\AppHotelBeni.exe
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\bin\Debug\AppHotelBeni.pdb
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\bin\Debug\AppHotelBeni.xml
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\bin\Debug\CmpHotelBeni.dll
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\bin\Debug\CmpHotelBeni.pdb
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\bin\Debug\CmpHotelBeni.xml
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.vbproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.login.resources
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.Resources.resources
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.vbproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.vbproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.vbproj.CopyComplete
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.exe
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.xml
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.pdb
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.Principal.resources
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.clientes.resources
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\bin\Debug\CmpHotelBeni.dll.config
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.tipo_habitacion_y_nacionalidad.resources
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.habitaciones.resources
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.IndiceGeneral.resources
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.Registro.resources
+C:\Users\Sergio\Desktop\WEB SERGIO\AppHotelBeni\obj\Debug\AppHotelBeni.SeleccionHabitacion.resources
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\bin\Debug\AppHotelBeni.exe.config
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\bin\Debug\AppHotelBeni.exe
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\bin\Debug\AppHotelBeni.pdb
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\bin\Debug\AppHotelBeni.xml
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\bin\Debug\CmpHotelBeni.dll
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\bin\Debug\CmpHotelBeni.pdb
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\bin\Debug\CmpHotelBeni.xml
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\bin\Debug\CmpHotelBeni.dll.config
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.vbproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.clientes.resources
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.habitaciones.resources
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.IndiceGeneral.resources
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.login.resources
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.Resources.resources
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.Principal.resources
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.Registro.resources
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.SeleccionHabitacion.resources
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.tipo_habitacion_y_nacionalidad.resources
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.vbproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.vbproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.vbproj.CopyComplete
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.exe
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.xml
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\AppHotelBeni\obj\Debug\AppHotelBeni.pdb

@@ -1,0 +1,271 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CmpHotelBeni
+</name>
+</assembly>
+<members>
+<member name="T:CmpHotelBeni.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CmpHotelBeni.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CmpHotelBeni.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.AlquileresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.ClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.habitacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.NacionalidadesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.TiposHabitaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.CLIENTESADDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.habitacioneBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.AlquileresBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.PeriodoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.AlquileresBBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.AlquileresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.ClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.habitacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.NacionalidadesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.TiposHabitaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.CLIENTESADRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.habitacioneBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.AlquileresBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.PeriodoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.AlquileresBBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.AlquileresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.ClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.habitacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.NacionalidadesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.TiposHabitaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.CLIENTESADRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.habitacioneBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.AlquileresBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.PeriodoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DB.AlquileresBBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.AlquileresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.ClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.habitacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.NacionalidadesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.TiposHabitaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.CLIENTESADTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.habitacioneBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.AlquileresBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.PeriodoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.AlquileresBBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CmpHotelBeni.DBTableAdapters.TableAdapterManager.UpdateUpdatedRows(CmpHotelBeni.DB,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CmpHotelBeni.DBTableAdapters.TableAdapterManager.UpdateInsertedRows(CmpHotelBeni.DB,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CmpHotelBeni.DBTableAdapters.TableAdapterManager.UpdateDeletedRows(CmpHotelBeni.DB,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CmpHotelBeni.DBTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CmpHotelBeni.DBTableAdapters.TableAdapterManager.UpdateAll(CmpHotelBeni.DB)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CmpHotelBeni.DBTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

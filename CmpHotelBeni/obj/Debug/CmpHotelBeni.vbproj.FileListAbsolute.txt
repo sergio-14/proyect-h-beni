@@ -1,0 +1,22 @@
+C:\Users\Sergio\Desktop\WEB SERGIO\CmpHotelBeni\bin\Debug\CmpHotelBeni.dll
+C:\Users\Sergio\Desktop\WEB SERGIO\CmpHotelBeni\bin\Debug\CmpHotelBeni.pdb
+C:\Users\Sergio\Desktop\WEB SERGIO\CmpHotelBeni\bin\Debug\CmpHotelBeni.xml
+C:\Users\Sergio\Desktop\WEB SERGIO\CmpHotelBeni\obj\Debug\CmpHotelBeni.vbproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\WEB SERGIO\CmpHotelBeni\obj\Debug\CmpHotelBeni.Resources.resources
+C:\Users\Sergio\Desktop\WEB SERGIO\CmpHotelBeni\obj\Debug\CmpHotelBeni.vbproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\WEB SERGIO\CmpHotelBeni\obj\Debug\CmpHotelBeni.vbproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\WEB SERGIO\CmpHotelBeni\obj\Debug\CmpHotelBeni.dll
+C:\Users\Sergio\Desktop\WEB SERGIO\CmpHotelBeni\obj\Debug\CmpHotelBeni.xml
+C:\Users\Sergio\Desktop\WEB SERGIO\CmpHotelBeni\obj\Debug\CmpHotelBeni.pdb
+C:\Users\Sergio\Desktop\WEB SERGIO\CmpHotelBeni\bin\Debug\CmpHotelBeni.dll.config
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\CmpHotelBeni\bin\Debug\CmpHotelBeni.dll.config
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\CmpHotelBeni\bin\Debug\CmpHotelBeni.dll
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\CmpHotelBeni\bin\Debug\CmpHotelBeni.pdb
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\CmpHotelBeni\bin\Debug\CmpHotelBeni.xml
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\CmpHotelBeni\obj\Debug\CmpHotelBeni.vbproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\CmpHotelBeni\obj\Debug\CmpHotelBeni.Resources.resources
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\CmpHotelBeni\obj\Debug\CmpHotelBeni.vbproj.GenerateResource.cache
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\CmpHotelBeni\obj\Debug\CmpHotelBeni.vbproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\CmpHotelBeni\obj\Debug\CmpHotelBeni.dll
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\CmpHotelBeni\obj\Debug\CmpHotelBeni.xml
+C:\Users\Sergio\Desktop\PROYECTOS DE SOFTWARE ENTERPRISE\hotel beni\CmpHotelBeni\obj\Debug\CmpHotelBeni.pdb
